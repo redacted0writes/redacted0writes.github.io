@@ -38,7 +38,7 @@ body {
   background: var(--bg);
   color: var(--ink);
   font-family: 'UglyDave', cursive;
-  font-size: 18px;
+  font-size: 22px;
   line-height: 1.6;
 }
 
@@ -302,7 +302,7 @@ body {
   position: fixed;
   bottom: 2rem; right: 2.5rem;
   font-size: 11px;
-  color: #ddd;
+  color: #aaa;
   text-align: right;
   line-height: 1.8;
   transform: rotate(1.5deg);
