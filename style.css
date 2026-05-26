@@ -64,7 +64,7 @@ body {
 .ink {
   position: fixed;
   pointer-events: none;
-  font-family: 'UglyDaveAlt', cursive;
+  font-family: 'UglyDave', cursive;
   color: #8a9aaa;
   line-height: 1;
   z-index: 0;
